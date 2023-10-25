@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ProjectGuid>{58FE35E5-48A9-4FAA-90D8-442FBA1D3C94}</ProjectGuid>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GeniyIdiotClassLibrary\GeniyIdiotClassLibrary.csproj" />
+  </ItemGroup>
+</Project>
