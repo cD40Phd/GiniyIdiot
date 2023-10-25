@@ -14,9 +14,9 @@ This is a user testing program that allows you to test users based on a set of p
 - User and Question Management: The program provides tools to manage the list of registered users and questions. This includes adding new questions and deleting existing ones.
 ## Demo
 
-![alt-текст](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Текст заголовка логотипа 1")
+![alt-текст](https://github.com/cD40Phd/GiniyIdiot/blob/main/GenyIdiotCon.gif "Console")
 
-![alt-текст](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Текст заголовка логотипа 1")
+![alt-текст](https://github.com/cD40Phd/GiniyIdiot/blob/main/GenyIdiot.gif "WinForm")
 
 
 ## Installation
