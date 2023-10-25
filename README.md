@@ -1,2 +1,2 @@
 # GiniyIdiot
-Training project C# Object Oriented Programming for C# .NET 
+Training project Object Oriented Programming for C# .NET 
